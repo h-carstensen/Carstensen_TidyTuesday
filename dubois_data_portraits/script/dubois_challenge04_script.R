@@ -37,7 +37,7 @@ ggplot(data = data,
   geom_text(aes(x = 1895, y = 1500000, label = "LYNCHING", family = "mono")) +  # Adding plot text labels to approx. location on original
   geom_text(aes(x = 1880, y = 4250000, label = "RISE OF THE", family = "mono")) +  # Adding plot text labels to approx. location on original
   geom_text(aes(x = 1880, y = 4000000, label = "NEW INDUSTRIALISM", family = "mono")) +  # Adding plot text labels to approx. location on original
-  geom_text(aes(x = 1896, y = 3000000, label = "DISENFRANCHISMENT", family = "mono")) +  # Adding plot text labels to approx. location on original
+  geom_text(aes(x = 1896, y = 3000000, label = "DISENFRANCHISEMENT", family = "mono")) +  # Adding plot text labels to approx. location on original
   geom_text(aes(x = 1896, y = 2750000, label = "AND PROSCRIPTIVE", family = "mono")) +  # Adding plot text labels to approx. location on original
   geom_text(aes(x = 1896, y = 2500000, label = "LAWS", family = "mono"))  # Adding plot text labels to approx. location on original
 
