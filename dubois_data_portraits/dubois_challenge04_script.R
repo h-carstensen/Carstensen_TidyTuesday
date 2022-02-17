@@ -4,8 +4,8 @@
 
 
 #### load libraries ####
-library(tidyverse)
-library(here)
+library(tidyverse)  #Loading tidyverse
+library(here)  #Loading here
 
 #### read in data ####
 data <- readr::read_csv("https://raw.githubusercontent.com/ajstarks/dubois-data-portraits/master/challenge/2022/challenge04/data.csv")
