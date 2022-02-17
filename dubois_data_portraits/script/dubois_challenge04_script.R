@@ -15,7 +15,7 @@ ggplot(data = data,
        mapping = aes(x = Year,  #Set x-axis to year
                      y = `Property Valuation`)) +  #Set y-axis to 'Property Valuation'
   geom_line(size = 2) +  #Choose line geometry and increase line thickness from default
-  labs(title = "VALUATION OF TOWN AND CITY PROPERTY",  #Add title
+  labs(title = "VALUATION OF TOWN AND CITY PROPERTY OWNED \nBY GEORGIA NEGROS", #Title of original DuBois plot with \n to add new line
        caption = "Source: DuBois Data Challenge 2022 for TidyTuesday, Challenge04",  #Add caption
        y = "DOLLARS",  #Change y-axis title
        x = "YEAR") +  #Change x-axis title
@@ -28,7 +28,9 @@ ggplot(data = data,
                                         colour = "firebrick"),  #Changed minor gridline color
         panel.grid.major = element_line(size = 0.1, #Reduced major gridline thickness
                                         colour = "firebrick")) + #Changed major gridline color
-  scale_y_continuous(labels = scales::comma) + # Removed scientific notation from y-axis scale
+  scale_y_continuous(labels = scales::comma,  #Removed scientific notation from y-axis scale
+                     minor_breaks = scales::breaks_width(100000)) + #Added minor gridline at every $100,000
+  scale_x_continuous(minor_breaks = scales::breaks_width(1)) +  #Added minor gridline at every year
   geom_text(aes(x = 1876, y = 500000, label = "KU-KLUXISM", family = "mono")) +  # Adding plot text labels to approx. location on original
   geom_text(aes(x = 1875, y = 2250000, label = "POLITICAL UNREST", family = "mono")) +  # Adding plot text labels to approx. location on original
   geom_text(aes(x = 1890, y = 500000, label = "FINANCIAL PANIC", family = "mono")) +  # Adding plot text labels to approx. location on original
