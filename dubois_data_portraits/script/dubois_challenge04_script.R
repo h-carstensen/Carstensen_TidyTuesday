@@ -16,7 +16,7 @@ ggplot(data = data,
        mapping = aes(x = Year,  #Set x-axis to year
                      y = `Property Valuation`)) +  #Set y-axis to 'Property Valuation'
   geom_line(size = 2) +  #Choose line geometry and increase line thickness from default
-  labs(title = "VALUATION OF TOWN AND CITY PROPERTY OWNED \nBY GEORGIA NEGROS", #Title of original DuBois plot with \n to add new line
+  labs(title = "VALUATION OF TOWN AND CITY PROPERTY OWNED \nBY GEORGIA BLACKS", #Title of original DuBois plot with \n to add new line
        caption = "Source: DuBois Data Challenge 2022 for TidyTuesday, Challenge04",  #Add caption
        y = "DOLLARS",  #Change y-axis title
        x = "YEAR") +  #Change x-axis title
