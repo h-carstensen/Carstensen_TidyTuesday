@@ -42,6 +42,6 @@ ggplot(data = data,
   geom_text(aes(x = 1896, y = 2750000, label = "AND PROSCRIPTIVE", family = "mono")) +  # Adding plot text labels to approx. location on original
   geom_text(aes(x = 1896, y = 2500000, label = "LAWS", family = "mono"))  # Adding plot text labels to approx. location on original
 
-ggsave(here("dubois_data_portraits", "outputs", "DuBois_challenge04.png"),  # Saving plot as .png
+ggsave(here("2022-02-14_dubois_data_portraits", "outputs", "DuBois_challenge04.png"),  # Saving plot as .png
        width = 6, height = 7.62)  # Changing width and height to approx. the original aspect ratio
   
