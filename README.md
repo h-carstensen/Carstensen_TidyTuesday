@@ -10,3 +10,7 @@ Folders:
 [2022-02-21_freedom_in_the_world](https://github.com/h-carstensen/Carstensen_TidyTuesday/tree/main/2022-02-21_freedom_in_the_world): TidyTuesday project from week of 2022-02-21 - [Freedom in the World](https://github.com/rfordatascience/tidytuesday/tree/master/data/2022/2022-02-22)
  * [Script](https://github.com/h-carstensen/Carstensen_TidyTuesday/blob/main/2022-02-21_freedom_in_the_world/Script/Freedom_in_the_world_script.R)
  * [Output](https://github.com/h-carstensen/Carstensen_TidyTuesday/blob/main/2022-02-21_freedom_in_the_world/Output/Freedom_plot.png)
+
+[2022-02-28_Alternative_fuel_stations](https://github.com/h-carstensen/Carstensen_TidyTuesday/tree/main/2022-02-28_Alternative_fuel_stations): TidyTuesday project from week of 2022-02-28 - [Alternative fueling stations](https://github.com/rfordatascience/tidytuesday/tree/master/data/2022/2022-03-01)
+ * [Script](https://github.com/h-carstensen/Carstensen_TidyTuesday/blob/main/2022-02-28_Alternative_fuel_stations/Script/Alternative_fuel_stations_script.R)
+ * [Output](https://github.com/h-carstensen/Carstensen_TidyTuesday/blob/main/2022-02-28_Alternative_fuel_stations/Output/Alternative_fuel.png)
