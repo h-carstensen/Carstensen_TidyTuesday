@@ -14,3 +14,7 @@ Folders:
 [2022-02-28_Alternative_fuel_stations](https://github.com/h-carstensen/Carstensen_TidyTuesday/tree/main/2022-02-28_Alternative_fuel_stations): TidyTuesday project from week of 2022-02-28 - [Alternative fueling stations](https://github.com/rfordatascience/tidytuesday/tree/master/data/2022/2022-03-01)
  * [Script](https://github.com/h-carstensen/Carstensen_TidyTuesday/blob/main/2022-02-28_Alternative_fuel_stations/Script/Alternative_fuel_stations_script.R)
  * [Output](https://github.com/h-carstensen/Carstensen_TidyTuesday/blob/main/2022-02-28_Alternative_fuel_stations/Output/Alternative_fuel.png)
+
+[2022-03-07_EU_student_mobility](https://github.com/h-carstensen/Carstensen_TidyTuesday/tree/main/2022-03-07_EU_student_mobility): TidyTuesday project from week of 2022-03-07 - [EU Student Mobility](https://github.com/rfordatascience/tidytuesday/tree/master/data/2022/2022-03-08)
+ * [Script](https://github.com/h-carstensen/Carstensen_TidyTuesday/blob/main/2022-03-07_EU_student_mobility/Script/Erasmus.R)
+ * [Output](https://github.com/h-carstensen/Carstensen_TidyTuesday/blob/main/2022-03-07_EU_student_mobility/Output/Erasmus.png)
