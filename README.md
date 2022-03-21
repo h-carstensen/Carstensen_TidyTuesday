@@ -18,3 +18,7 @@ Folders:
 [2022-03-07_EU_student_mobility](https://github.com/h-carstensen/Carstensen_TidyTuesday/tree/main/2022-03-07_EU_student_mobility): TidyTuesday project from week of 2022-03-07 - [EU Student Mobility](https://github.com/rfordatascience/tidytuesday/tree/master/data/2022/2022-03-08)
  * [Script](https://github.com/h-carstensen/Carstensen_TidyTuesday/blob/main/2022-03-07_EU_student_mobility/Script/Erasmus.R)
  * [Output](https://github.com/h-carstensen/Carstensen_TidyTuesday/blob/main/2022-03-07_EU_student_mobility/Output/Erasmus.png)
+
+[2022-03-14_R_vignettes](https://github.com/h-carstensen/Carstensen_TidyTuesday/tree/main/2022-03-14_R_vignettes): TidyTuesday project from week of 2022-03-14 - [R Vignettes](https://github.com/rfordatascience/tidytuesday/tree/master/data/2022/2022-03-15)
+ * [Script](https://github.com/h-carstensen/Carstensen_TidyTuesday/blob/main/2022-03-14_R_vignettes/Script/R_vignettes.R)
+ * [Output](https://github.com/h-carstensen/Carstensen_TidyTuesday/blob/main/2022-03-14_R_vignettes/Output/R_Vignettes.png)
