@@ -23,7 +23,7 @@ Folders:
  * [Script](https://github.com/h-carstensen/Carstensen_TidyTuesday/blob/main/2022-03-14_R_vignettes/Script/R_vignettes.R)
  * [Output](https://github.com/h-carstensen/Carstensen_TidyTuesday/blob/main/2022-03-14_R_vignettes/Output/R_Vignettes.png)
 
-[2022-03-21_Baby_Names](): TidyTuesday project from week of 2022-03-21 - [Baby Names](https://github.com/rfordatascience/tidytuesday/tree/master/data/2022/2022-03-22)
+[2022-03-21_Baby_Names](https://github.com/h-carstensen/Carstensen_TidyTuesday/tree/main/2022-03-21_Baby_Names): TidyTuesday project from week of 2022-03-21 - [Baby Names](https://github.com/rfordatascience/tidytuesday/tree/master/data/2022/2022-03-22)
  * [Scripts](https://github.com/h-carstensen/Carstensen_TidyTuesday/tree/main/2022-03-21_Baby_Names/Script):
    * [baby_names.R](https://github.com/h-carstensen/Carstensen_TidyTuesday/blob/main/2022-03-21_Baby_Names/Script/baby_names.R) is the script used to generate the plot
    * [cloud.html](https://github.com/h-carstensen/Carstensen_TidyTuesday/blob/main/2022-03-21_Baby_Names/Script/cloud.html) is the  html output where the wordcloud was generated using the wordcloud2 package.
@@ -31,3 +31,7 @@ Folders:
  * [Output](https://github.com/h-carstensen/Carstensen_TidyTuesday/tree/main/2022-03-21_Baby_Names/Output):
    * [baby_names_plot.png](https://github.com/h-carstensen/Carstensen_TidyTuesday/blob/main/2022-03-21_Baby_Names/Output/baby_names_plot.png) is the final plot output with a title
    * [cloud.png](https://github.com/h-carstensen/Carstensen_TidyTuesday/blob/main/2022-03-21_Baby_Names/Output/cloud.png) is the original wordcloud captured from the html widget
+
+[2022-03-29_Collegiate_Sports](https://github.com/h-carstensen/Carstensen_TidyTuesday/tree/main/2022-03-29_Collegiate_Sports): TidyTuesday project from week of 2022-03-29 - [Collegiate Sports](https://github.com/rfordatascience/tidytuesday/blob/master/data/2022/2022-03-29/readme.md)
+ * [Script](https://github.com/h-carstensen/Carstensen_TidyTuesday/blob/main/2022-03-29_Collegiate_Sports/Script/Collegiate_sports.R)
+ * [Output](https://github.com/h-carstensen/Carstensen_TidyTuesday/blob/main/2022-03-29_Collegiate_Sports/Output/Sports.png)
